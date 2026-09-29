@@ -2,7 +2,7 @@
 
 An Excel dashboard that analyzes sales performance using the Global Superstore dataset (51,290 order lines, 2012–2015).
 
-![Dashboard](dashboard.png)(pivot_analysis.png)
+![Dashboard](dashboard.png)
 
 ## Objective
 Analyze total revenue, sales by category, yearly sales trends and department-wise revenue.
